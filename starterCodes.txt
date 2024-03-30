@@ -1,0 +1,12 @@
+Download and inspect the starter code
+Click on the "download starter" button to download the starter code to your laptop. Open the zip file and move the starter code folder qr-code-component-main to an appropriate folder on your computer. We recommend creating a development folder for all your web projects in your home directory.
+
+Open the qr-code-component-main folder in VSCode and take a look at the starter code files:
+
+README.md: This outlines everything you need to get started and how to deploy and submit your solution. Take time to familiarise yourself with these steps, as they'll be almost identical for any challenge you undertake on Frontend Mentor.
+style-guide.md: This provides all the breakpoints, colors, font sizes, and fonts needed to complete the challenge. Sticking to this guide will help you to get your solution close to the designs.
+design/: This folder contains JPG images of the designs that you'll work from.
+images/: This folder contains any assets needed to complete the challenge.
+.gitignore: This file prevents specific files and folders from being added to your commits and pushed to your repository. Make sure you don't delete this file!
+index.html: This is the main project file. It will contain a basic HTML document, including some initial setup. All the copy from the project will be here as well.
+README-template.md: When you've finished your project, we advise that you replace or update the existing README with your own, which should outline the project and reflect on the challenges you had and how you overcame them. This will appear on the GitHub page for this repo and is a great way to talk about your project with prospective employers in the future.
