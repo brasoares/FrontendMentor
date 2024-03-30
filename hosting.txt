@@ -1,0 +1,2 @@
+Hosting your project
+Once you’ve completed your project, make one final push to your remote repository. Once you’ve pushed your code to your repository, you can easily host your project using services like GitHub Pages and Vercel. These will link directly to the code in your repository, meaning any changes you make to the repository will automatically appear on the live version of your project. More details about submitting your solutions and hosting your projects are in the README.md file inside the starter files for each challenge.
